@@ -1,5 +1,5 @@
 # constrained-recuitment-hiring-platform-
-A two-sided labor matching (hiring) market design using contact quota % stratified atlent pools, to mitigate congesion effects and to improve matching efficiency in recruitment
+A two-sided labor matching (hiring) market design using contact quota & stratified talent pools, to mitigate congesion effects and to improve matching efficiency in recruitment
 
 ## Congestion in the Traditional Recruitment Market
 
