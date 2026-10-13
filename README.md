@@ -67,3 +67,15 @@ Threats
 
 ## Conclusion
 The congestion effect in traditional recruitment platforms is rooted in unconstrained search rules, and recommendation algorithms alone cannot cure involution and inefficient matching. The quota + tiered talent pool approach proposed in this paper rebuilds the cost structure of two-sided search: scarce outreach quotas force higher-quality communication, and, combined with AI-driven tiered pool matching and controlled activity incentives, can significantly reduce search friction in the market. This model is not suited to all recruitment scenarios, but it has strong potential for deployment in the mid-to-senior talent, technical role, and small-team hiring segments. The core challenges of implementation lie not in the algorithm itself but in maintaining supply–demand balance within pools, ensuring transparency of tiering, avoiding algorithmic bias, and overcoming the cold-start barrier of a two-sided platform.
+
+## What do we need for developing this new mechanism?
+- A logical and complete economic model which specialize in labour market design. The design should be able to clealy describe how the mechanism work and predict how the restriction quota will improve the effiency of searching and matching for both employers and job seekers. (I am working on it)
+- Develop algorithms that can create a panel of talent pools linked with a set of skills and experience necessary for this job, according to the existing data in labour market, which requires extensive LLM techniques. Meanwhile, the algorithms know well how to precisely profile each job seeker and employer and categorise them into talent pools according to their skills and experience.
+- If necessary, the developer may hire a group of experienced headhunters or labur economists to offer instant training to the model.
+- Advertisement that attracts employers and job seekers to use the platform for job hiring/seeking, which enlarges the customer base.
+
+## If you have occasionally read this post
+Congrats! I am happy that you do so. Now we are both the thinkers about the next-generation job matching. I would like to send you a few requests:
+- If you are a headhunter or the head of a hiring platform and you are interested in this article, it would be great if you hire me. I am an labour economist who currently studies the job matching mechanism, and I sincerely would like to join a fantastic team to develop new hiring mechanism.
+- If you are an economist, entrepreneur , or anyone else interested in this article, it would be great if you communicate with me or even create such a new platform. I firmly believe there is much great potential for this mechanism.  
+My email address: shengjiechao1998@gmail.com
